@@ -7,4 +7,4 @@ p1 = Person("Anvar")
 p2 = Person('Shavkat')
 p3 = Person('Jasur')
 # Add these objects to the "persons" named list
-list = [p1, p2, p3]
+persons = [p1, p2, p3]
